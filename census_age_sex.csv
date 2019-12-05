@@ -1,0 +1,1378 @@
+REGION,SEX,agebins,POPEST2018_CIV
+Alabama,0,10-Jan,653962
+Alabama,0,20-Nov,625853
+Alabama,0,21-30,658094
+Alabama,0,31-40,599174
+Alabama,0,41-50,600401
+Alabama,0,51-60,657037
+Alabama,0,61-70,574512
+Alabama,0,71+,505031
+Alabama,0,Total,4874064
+Alabama,1,10-Jan,333218
+Alabama,1,20-Nov,317056
+Alabama,1,21-30,326987
+Alabama,1,31-40,289571
+Alabama,1,41-50,289989
+Alabama,1,51-60,315885
+Alabama,1,61-70,268037
+Alabama,1,71+,211584
+Alabama,1,Total,2352327
+Alabama,2,10-Jan,320744
+Alabama,2,20-Nov,308797
+Alabama,2,21-30,331107
+Alabama,2,31-40,309603
+Alabama,2,41-50,310412
+Alabama,2,51-60,341152
+Alabama,2,61-70,306475
+Alabama,2,71+,293447
+Alabama,2,Total,2521737
+Alaska,0,10-Jan,115416
+Alaska,0,20-Nov,93272
+Alaska,0,21-30,106262
+Alaska,0,31-40,100946
+Alaska,0,41-50,84494
+Alaska,0,51-60,94754
+Alaska,0,61-70,76693
+Alaska,0,71+,46166
+Alaska,0,Total,718003
+Alaska,1,10-Jan,59220
+Alaska,1,20-Nov,48350
+Alaska,1,21-30,55138
+Alaska,1,31-40,51148
+Alaska,1,41-50,43791
+Alaska,1,51-60,49140
+Alaska,1,61-70,39314
+Alaska,1,71+,22101
+Alaska,1,Total,368202
+Alaska,2,10-Jan,56196
+Alaska,2,20-Nov,44922
+Alaska,2,21-30,51124
+Alaska,2,31-40,49798
+Alaska,2,41-50,40703
+Alaska,2,51-60,45614
+Alaska,2,61-70,37379
+Alaska,2,71+,24065
+Alaska,2,Total,349801
+Arizona,0,10-Jan,983647
+Arizona,0,20-Nov,947477
+Arizona,0,21-30,1000282
+Arizona,0,31-40,910605
+Arizona,0,41-50,849296
+Arizona,0,51-60,865355
+Arizona,0,61-70,803873
+Arizona,0,71+,791484
+Arizona,0,Total,7152019
+Arizona,1,10-Jan,502027
+Arizona,1,20-Nov,483887
+Arizona,1,21-30,517034
+Arizona,1,31-40,464287
+Arizona,1,41-50,423719
+Arizona,1,51-60,420095
+Arizona,1,61-70,375619
+Arizona,1,71+,362040
+Arizona,1,Total,3548708
+Arizona,2,10-Jan,481620
+Arizona,2,20-Nov,463590
+Arizona,2,21-30,483248
+Arizona,2,31-40,446318
+Arizona,2,41-50,425577
+Arizona,2,51-60,445260
+Arizona,2,61-70,428254
+Arizona,2,71+,429444
+Arizona,2,Total,3603311
+Arkansas,0,10-Jan,424019
+Arkansas,0,20-Nov,398296
+Arkansas,0,21-30,403743
+Arkansas,0,31-40,377657
+Arkansas,0,41-50,359006
+Arkansas,0,51-60,386081
+Arkansas,0,61-70,341247
+Arkansas,0,71+,318517
+Arkansas,0,Total,3008566
+Arkansas,1,10-Jan,217351
+Arkansas,1,20-Nov,203833
+Arkansas,1,21-30,203095
+Arkansas,1,31-40,188047
+Arkansas,1,41-50,176957
+Arkansas,1,51-60,188359
+Arkansas,1,61-70,160543
+Arkansas,1,71+,137477
+Arkansas,1,Total,1475662
+Arkansas,2,10-Jan,206668
+Arkansas,2,20-Nov,194463
+Arkansas,2,21-30,200648
+Arkansas,2,31-40,189610
+Arkansas,2,41-50,182049
+Arkansas,2,51-60,197722
+Arkansas,2,61-70,180704
+Arkansas,2,71+,181040
+Arkansas,2,Total,1532904
+California,0,10-Jan,5443562
+California,0,20-Nov,5065671
+California,0,21-30,5846874
+California,0,31-40,5539308
+California,0,41-50,5050795
+California,0,51-60,5000182
+California,0,61-70,3972486
+California,0,71+,3482106
+California,0,Total,39400984
+California,1,10-Jan,2783949
+California,1,20-Nov,2579095
+California,1,21-30,2991393
+California,1,31-40,2816024
+California,1,41-50,2517318
+California,1,51-60,2464696
+California,1,61-70,1880854
+California,1,71+,1497965
+California,1,Total,19531294
+California,2,10-Jan,2659613
+California,2,20-Nov,2486576
+California,2,21-30,2855481
+California,2,31-40,2723284
+California,2,41-50,2533477
+California,2,51-60,2535486
+California,2,61-70,2091632
+California,2,71+,1984141
+California,2,Total,19869690
+Colorado,0,10-Jan,757330
+Colorado,0,20-Nov,724337
+Colorado,0,21-30,829639
+Colorado,0,31-40,833478
+Colorado,0,41-50,721775
+Colorado,0,51-60,713115
+Colorado,0,61-70,610993
+Colorado,0,71+,468854
+Colorado,0,Total,5659521
+Colorado,1,10-Jan,387288
+Colorado,1,20-Nov,371689
+Colorado,1,21-30,427950
+Colorado,1,31-40,428573
+Colorado,1,41-50,368341
+Colorado,1,51-60,351694
+Colorado,1,61-70,294527
+Colorado,1,71+,207640
+Colorado,1,Total,2837702
+Colorado,2,10-Jan,370042
+Colorado,2,20-Nov,352648
+Colorado,2,21-30,401689
+Colorado,2,31-40,404905
+Colorado,2,41-50,353434
+Colorado,2,51-60,361421
+Colorado,2,61-70,316466
+Colorado,2,71+,261214
+Colorado,2,Total,2821819
+Connecticut,0,10-Jan,421223
+Connecticut,0,20-Nov,468690
+Connecticut,0,21-30,455046
+Connecticut,0,31-40,435407
+Connecticut,0,41-50,447422
+Connecticut,0,51-60,532454
+Connecticut,0,61-70,415739
+Connecticut,0,71+,389775
+Connecticut,0,Total,3565756
+Connecticut,1,10-Jan,215027
+Connecticut,1,20-Nov,238354
+Connecticut,1,21-30,233857
+Connecticut,1,31-40,215170
+Connecticut,1,41-50,217035
+Connecticut,1,51-60,257670
+Connecticut,1,61-70,197504
+Connecticut,1,71+,162398
+Connecticut,1,Total,1737015
+Connecticut,2,10-Jan,206196
+Connecticut,2,20-Nov,230336
+Connecticut,2,21-30,221189
+Connecticut,2,31-40,220237
+Connecticut,2,41-50,230387
+Connecticut,2,51-60,274784
+Connecticut,2,61-70,218235
+Connecticut,2,71+,227377
+Connecticut,2,Total,1828741
+Delaware,0,10-Jan,122566
+Delaware,0,20-Nov,118206
+Delaware,0,21-30,124611
+Delaware,0,31-40,117927
+Delaware,0,41-50,111599
+Delaware,0,51-60,134822
+Delaware,0,61-70,123874
+Delaware,0,71+,110149
+Delaware,0,Total,963754
+Delaware,1,10-Jan,61983
+Delaware,1,20-Nov,59598
+Delaware,1,21-30,62415
+Delaware,1,31-40,58099
+Delaware,1,41-50,53656
+Delaware,1,51-60,63880
+Delaware,1,61-70,57210
+Delaware,1,71+,48256
+Delaware,1,Total,465097
+Delaware,2,10-Jan,60583
+Delaware,2,20-Nov,58608
+Delaware,2,21-30,62196
+Delaware,2,31-40,59828
+Delaware,2,41-50,57943
+Delaware,2,51-60,70942
+Delaware,2,61-70,66664
+Delaware,2,71+,61893
+Delaware,2,Total,498657
+District of Columbia,0,10-Jan,89526
+District of Columbia,0,20-Nov,69699
+District of Columbia,0,21-30,141336
+District of Columbia,0,31-40,133985
+District of Columbia,0,41-50,78776
+District of Columbia,0,51-60,72986
+District of Columbia,0,61-70,59719
+District of Columbia,0,71+,52273
+District of Columbia,0,Total,698300
+District of Columbia,1,10-Jan,45367
+District of Columbia,1,20-Nov,33516
+District of Columbia,1,21-30,64377
+District of Columbia,1,31-40,64652
+District of Columbia,1,41-50,39109
+District of Columbia,1,51-60,35951
+District of Columbia,1,61-70,26510
+District of Columbia,1,71+,20509
+District of Columbia,1,Total,329991
+District of Columbia,2,10-Jan,44159
+District of Columbia,2,20-Nov,36183
+District of Columbia,2,21-30,76959
+District of Columbia,2,31-40,69333
+District of Columbia,2,41-50,39667
+District of Columbia,2,51-60,37035
+District of Columbia,2,61-70,33209
+District of Columbia,2,71+,31764
+District of Columbia,2,Total,368309
+Florida,0,10-Jan,2541906
+Florida,0,20-Nov,2407806
+Florida,0,21-30,2705890
+Florida,0,31-40,2625043
+Florida,0,41-50,2606982
+Florida,0,51-60,2884617
+Florida,0,61-70,2624534
+Florida,0,71+,2834046
+Florida,0,Total,21230824
+Florida,1,10-Jan,1298794
+Florida,1,20-Nov,1228447
+Florida,1,21-30,1371257
+Florida,1,31-40,1308644
+Florida,1,41-50,1281317
+Florida,1,51-60,1390176
+Florida,1,61-70,1214192
+Florida,1,71+,1262437
+Florida,1,Total,10355264
+Florida,2,10-Jan,1243112
+Florida,2,20-Nov,1179359
+Florida,2,21-30,1334633
+Florida,2,31-40,1316399
+Florida,2,41-50,1325665
+Florida,2,51-60,1494441
+Florida,2,61-70,1410342
+Florida,2,71+,1571609
+Florida,2,Total,10875560
+Georgia,0,10-Jan,1488986
+Georgia,0,20-Nov,1439572
+Georgia,0,21-30,1455675
+Georgia,0,31-40,1386566
+Georgia,0,41-50,1381648
+Georgia,0,51-60,1366903
+Georgia,0,61-70,1071191
+Georgia,0,71+,865604
+Georgia,0,Total,10456145
+Georgia,1,10-Jan,759029
+Georgia,1,20-Nov,728154
+Georgia,1,21-30,720899
+Georgia,1,31-40,668719
+Georgia,1,41-50,666659
+Georgia,1,51-60,658786
+Georgia,1,61-70,494538
+Georgia,1,71+,364944
+Georgia,1,Total,5061728
+Georgia,2,10-Jan,729957
+Georgia,2,20-Nov,711418
+Georgia,2,21-30,734776
+Georgia,2,31-40,717847
+Georgia,2,41-50,714989
+Georgia,2,51-60,708117
+Georgia,2,61-70,576653
+Georgia,2,71+,500660
+Georgia,2,Total,5394417
+Hawaii,0,10-Jan,191488
+Hawaii,0,20-Nov,154719
+Hawaii,0,21-30,173801
+Hawaii,0,31-40,181057
+Hawaii,0,41-50,164426
+Hawaii,0,51-60,176984
+Hawaii,0,61-70,169758
+Hawaii,0,71+,162972
+Hawaii,0,Total,1375205
+Hawaii,1,10-Jan,98242
+Hawaii,1,20-Nov,78867
+Hawaii,1,21-30,85847
+Hawaii,1,31-40,88389
+Hawaii,1,41-50,81282
+Hawaii,1,51-60,87520
+Hawaii,1,61-70,82197
+Hawaii,1,71+,70830
+Hawaii,1,Total,673174
+Hawaii,2,10-Jan,93246
+Hawaii,2,20-Nov,75852
+Hawaii,2,21-30,87954
+Hawaii,2,31-40,92668
+Hawaii,2,41-50,83144
+Hawaii,2,51-60,89464
+Hawaii,2,61-70,87561
+Hawaii,2,71+,92142
+Hawaii,2,Total,702031
+Idaho,0,10-Jan,265592
+Idaho,0,20-Nov,250874
+Idaho,0,21-30,232713
+Idaho,0,31-40,226082
+Idaho,0,41-50,203153
+Idaho,0,51-60,209434
+Idaho,0,61-70,196540
+Idaho,0,71+,166282
+Idaho,0,Total,1750670
+Idaho,1,10-Jan,135274
+Idaho,1,20-Nov,128158
+Idaho,1,21-30,119914
+Idaho,1,31-40,114087
+Idaho,1,41-50,102677
+Idaho,1,51-60,103160
+Idaho,1,61-70,95747
+Idaho,1,71+,77155
+Idaho,1,Total,876172
+Idaho,2,10-Jan,130318
+Idaho,2,20-Nov,122716
+Idaho,2,21-30,112799
+Idaho,2,31-40,111995
+Idaho,2,41-50,100476
+Idaho,2,51-60,106274
+Idaho,2,61-70,100793
+Idaho,2,71+,89127
+Idaho,2,Total,874498
+Illinois,0,10-Jan,1700637
+Illinois,0,20-Nov,1639477
+Illinois,0,21-30,1750794
+Illinois,0,31-40,1702125
+Illinois,0,41-50,1599031
+Illinois,0,51-60,1699704
+Illinois,0,61-70,1394834
+Illinois,0,71+,1226758
+Illinois,0,Total,12713360
+Illinois,1,10-Jan,868912
+Illinois,1,20-Nov,835071
+Illinois,1,21-30,884618
+Illinois,1,31-40,853117
+Illinois,1,41-50,793292
+Illinois,1,51-60,832275
+Illinois,1,61-70,661877
+Illinois,1,71+,510245
+Illinois,1,Total,6239407
+Illinois,2,10-Jan,831725
+Illinois,2,20-Nov,804406
+Illinois,2,21-30,866176
+Illinois,2,31-40,849008
+Illinois,2,41-50,805739
+Illinois,2,51-60,867429
+Illinois,2,61-70,732957
+Illinois,2,71+,716513
+Illinois,2,Total,6473953
+Indiana,0,10-Jan,938082
+Indiana,0,20-Nov,911434
+Indiana,0,21-30,917425
+Indiana,0,31-40,839602
+Indiana,0,41-50,813349
+Indiana,0,51-60,880780
+Indiana,0,61-70,746622
+Indiana,0,71+,641743
+Indiana,0,Total,6689037
+Indiana,1,10-Jan,480599
+Indiana,1,20-Nov,466915
+Indiana,1,21-30,466325
+Indiana,1,31-40,418904
+Indiana,1,41-50,405873
+Indiana,1,51-60,432398
+Indiana,1,61-70,356943
+Indiana,1,71+,269914
+Indiana,1,Total,3297871
+Indiana,2,10-Jan,457483
+Indiana,2,20-Nov,444519
+Indiana,2,21-30,451100
+Indiana,2,31-40,420698
+Indiana,2,41-50,407476
+Indiana,2,51-60,448382
+Indiana,2,61-70,389679
+Indiana,2,71+,371829
+Indiana,2,Total,3391166
+Iowa,0,10-Jan,441442
+Iowa,0,20-Nov,428297
+Iowa,0,21-30,421031
+Iowa,0,31-40,394943
+Iowa,0,41-50,357962
+Iowa,0,51-60,409466
+Iowa,0,61-70,364396
+Iowa,0,71+,336807
+Iowa,0,Total,3154344
+Iowa,1,10-Jan,225820
+Iowa,1,20-Nov,219008
+Iowa,1,21-30,217346
+Iowa,1,31-40,201073
+Iowa,1,41-50,181037
+Iowa,1,51-60,203319
+Iowa,1,61-70,178666
+Iowa,1,71+,143027
+Iowa,1,Total,1569296
+Iowa,2,10-Jan,215622
+Iowa,2,20-Nov,209289
+Iowa,2,21-30,203685
+Iowa,2,31-40,193870
+Iowa,2,41-50,176925
+Iowa,2,51-60,206147
+Iowa,2,61-70,185730
+Iowa,2,71+,193780
+Iowa,2,Total,1585048
+Kansas,0,10-Jan,427496
+Kansas,0,20-Nov,401181
+Kansas,0,21-30,389595
+Kansas,0,31-40,369458
+Kansas,0,41-50,328331
+Kansas,0,51-60,366337
+Kansas,0,61-70,320998
+Kansas,0,71+,285376
+Kansas,0,Total,2888772
+Kansas,1,10-Jan,218429
+Kansas,1,20-Nov,205811
+Kansas,1,21-30,199208
+Kansas,1,31-40,184979
+Kansas,1,41-50,164412
+Kansas,1,51-60,180090
+Kansas,1,61-70,155645
+Kansas,1,71+,122209
+Kansas,1,Total,1430783
+Kansas,2,10-Jan,209067
+Kansas,2,20-Nov,195370
+Kansas,2,21-30,190387
+Kansas,2,31-40,184479
+Kansas,2,41-50,163919
+Kansas,2,51-60,186247
+Kansas,2,61-70,165353
+Kansas,2,71+,163167
+Kansas,2,Total,1457989
+Kentucky,0,10-Jan,609109
+Kentucky,0,20-Nov,573372
+Kentucky,0,21-30,600232
+Kentucky,0,31-40,552285
+Kentucky,0,41-50,553202
+Kentucky,0,51-60,603994
+Kentucky,0,61-70,519034
+Kentucky,0,71+,440455
+Kentucky,0,Total,4451683
+Kentucky,1,10-Jan,312225
+Kentucky,1,20-Nov,293476
+Kentucky,1,21-30,305235
+Kentucky,1,31-40,275107
+Kentucky,1,41-50,274485
+Kentucky,1,51-60,294067
+Kentucky,1,61-70,246282
+Kentucky,1,71+,186628
+Kentucky,1,Total,2187505
+Kentucky,2,10-Jan,296884
+Kentucky,2,20-Nov,279896
+Kentucky,2,21-30,294997
+Kentucky,2,31-40,277178
+Kentucky,2,41-50,278717
+Kentucky,2,51-60,309927
+Kentucky,2,61-70,272752
+Kentucky,2,71+,253827
+Kentucky,2,Total,2264178
+Louisiana,0,10-Jan,671385
+Louisiana,0,20-Nov,597718
+Louisiana,0,21-30,651668
+Louisiana,0,31-40,624147
+Louisiana,0,41-50,541332
+Louisiana,0,51-60,606060
+Louisiana,0,61-70,519843
+Louisiana,0,71+,431896
+Louisiana,0,Total,4644049
+Louisiana,1,10-Jan,341784
+Louisiana,1,20-Nov,304230
+Louisiana,1,21-30,325460
+Louisiana,1,31-40,307615
+Louisiana,1,41-50,264619
+Louisiana,1,51-60,291658
+Louisiana,1,61-70,244415
+Louisiana,1,71+,181518
+Louisiana,1,Total,2261299
+Louisiana,2,10-Jan,329601
+Louisiana,2,20-Nov,293488
+Louisiana,2,21-30,326208
+Louisiana,2,31-40,316532
+Louisiana,2,41-50,276713
+Louisiana,2,51-60,314402
+Louisiana,2,61-70,275428
+Louisiana,2,71+,250378
+Louisiana,2,Total,2382750
+Maine,0,10-Jan,146195
+Maine,0,20-Nov,151598
+Maine,0,21-30,155909
+Maine,0,31-40,156341
+Maine,0,41-50,162158
+Maine,0,51-60,205755
+Maine,0,61-70,192153
+Maine,0,71+,166927
+Maine,0,Total,1337036
+Maine,1,10-Jan,75083
+Maine,1,20-Nov,77957
+Maine,1,21-30,78866
+Maine,1,31-40,77234
+Maine,1,41-50,79598
+Maine,1,51-60,99860
+Maine,1,61-70,92282
+Maine,1,71+,73264
+Maine,1,Total,654144
+Maine,2,10-Jan,71112
+Maine,2,20-Nov,73641
+Maine,2,21-30,77043
+Maine,2,31-40,79107
+Maine,2,41-50,82560
+Maine,2,51-60,105895
+Maine,2,61-70,99871
+Maine,2,71+,93663
+Maine,2,Total,682892
+Maryland,0,10-Jan,811458
+Maryland,0,20-Nov,756545
+Maryland,0,21-30,791054
+Maryland,0,31-40,803206
+Maryland,0,41-50,762161
+Maryland,0,51-60,854025
+Maryland,0,61-70,662442
+Maryland,0,71+,567543
+Maryland,0,Total,6008434
+Maryland,1,10-Jan,414144
+Maryland,1,20-Nov,385886
+Maryland,1,21-30,394842
+Maryland,1,31-40,390589
+Maryland,1,41-50,365467
+Maryland,1,51-60,408129
+Maryland,1,61-70,306528
+Maryland,1,71+,236086
+Maryland,1,Total,2901671
+Maryland,2,10-Jan,397314
+Maryland,2,20-Nov,370659
+Maryland,2,21-30,396212
+Maryland,2,31-40,412617
+Maryland,2,41-50,396694
+Maryland,2,51-60,445896
+Maryland,2,61-70,355914
+Maryland,2,71+,331457
+Maryland,2,Total,3106763
+Massachusetts,0,10-Jan,806622
+Massachusetts,0,20-Nov,871661
+Massachusetts,0,21-30,996947
+Massachusetts,0,31-40,904463
+Massachusetts,0,41-50,852737
+Massachusetts,0,51-60,974159
+Massachusetts,0,61-70,786417
+Massachusetts,0,71+,704206
+Massachusetts,0,Total,6897212
+Massachusetts,1,10-Jan,412311
+Massachusetts,1,20-Nov,439205
+Massachusetts,1,21-30,499732
+Massachusetts,1,31-40,447651
+Massachusetts,1,41-50,414209
+Massachusetts,1,51-60,471916
+Massachusetts,1,61-70,369919
+Massachusetts,1,71+,291510
+Massachusetts,1,Total,3346453
+Massachusetts,2,10-Jan,394311
+Massachusetts,2,20-Nov,432456
+Massachusetts,2,21-30,497215
+Massachusetts,2,31-40,456812
+Massachusetts,2,41-50,438528
+Massachusetts,2,51-60,502243
+Massachusetts,2,61-70,416498
+Massachusetts,2,71+,412696
+Massachusetts,2,Total,3550759
+Michigan,0,10-Jan,1280088
+Michigan,0,20-Nov,1287001
+Michigan,0,21-30,1376351
+Michigan,0,31-40,1191469
+Michigan,0,41-50,1203256
+Michigan,0,51-60,1394973
+Michigan,0,61-70,1217126
+Michigan,0,71+,1041943
+Michigan,0,Total,9992207
+Michigan,1,10-Jan,654760
+Michigan,1,20-Nov,657081
+Michigan,1,21-30,703665
+Michigan,1,31-40,595974
+Michigan,1,41-50,595006
+Michigan,1,51-60,684005
+Michigan,1,61-70,581356
+Michigan,1,71+,447109
+Michigan,1,Total,4918956
+Michigan,2,10-Jan,625328
+Michigan,2,20-Nov,629920
+Michigan,2,21-30,672686
+Michigan,2,31-40,595495
+Michigan,2,41-50,608250
+Michigan,2,51-60,710968
+Michigan,2,61-70,635770
+Michigan,2,71+,594834
+Michigan,2,Total,5073251
+Minnesota,0,10-Jan,790057
+Minnesota,0,20-Nov,724758
+Minnesota,0,21-30,740032
+Minnesota,0,31-40,761684
+Minnesota,0,41-50,660805
+Minnesota,0,51-60,758944
+Minnesota,0,61-70,628632
+Minnesota,0,71+,544129
+Minnesota,0,Total,5609041
+Minnesota,1,10-Jan,403973
+Minnesota,1,20-Nov,368890
+Minnesota,1,21-30,378317
+Minnesota,1,31-40,386795
+Minnesota,1,41-50,333975
+Minnesota,1,51-60,377422
+Minnesota,1,61-70,307634
+Minnesota,1,71+,236016
+Minnesota,1,Total,2793022
+Minnesota,2,10-Jan,386084
+Minnesota,2,20-Nov,355868
+Minnesota,2,21-30,361715
+Minnesota,2,31-40,374889
+Minnesota,2,41-50,326830
+Minnesota,2,51-60,381522
+Minnesota,2,61-70,320998
+Minnesota,2,71+,308113
+Minnesota,2,Total,2816019
+Mississippi,0,10-Jan,420310
+Mississippi,0,20-Nov,410873
+Mississippi,0,21-30,405126
+Mississippi,0,31-40,369771
+Mississippi,0,41-50,357842
+Mississippi,0,51-60,385995
+Mississippi,0,61-70,334879
+Mississippi,0,71+,288224
+Mississippi,0,Total,2973020
+Mississippi,1,10-Jan,213665
+Mississippi,1,20-Nov,209289
+Mississippi,1,21-30,201267
+Mississippi,1,31-40,179115
+Mississippi,1,41-50,172085
+Mississippi,1,51-60,184727
+Mississippi,1,61-70,156406
+Mississippi,1,71+,119851
+Mississippi,1,Total,1436405
+Mississippi,2,10-Jan,206645
+Mississippi,2,20-Nov,201584
+Mississippi,2,21-30,203859
+Mississippi,2,31-40,190656
+Mississippi,2,41-50,185757
+Mississippi,2,51-60,201268
+Mississippi,2,61-70,178473
+Mississippi,2,71+,168373
+Mississippi,2,Total,1536615
+Missouri,0,10-Jan,829317
+Missouri,0,20-Nov,779943
+Missouri,0,21-30,826342
+Missouri,0,31-40,781046
+Missouri,0,41-50,717270
+Missouri,0,51-60,824058
+Missouri,0,61-70,708848
+Missouri,0,71+,640821
+Missouri,0,Total,6107645
+Missouri,1,10-Jan,424488
+Missouri,1,20-Nov,397771
+Missouri,1,21-30,416579
+Missouri,1,31-40,388446
+Missouri,1,41-50,354139
+Missouri,1,51-60,402329
+Missouri,1,61-70,335518
+Missouri,1,71+,272645
+Missouri,1,Total,2991915
+Missouri,2,10-Jan,404829
+Missouri,2,20-Nov,382172
+Missouri,2,21-30,409763
+Missouri,2,31-40,392600
+Missouri,2,41-50,363131
+Missouri,2,51-60,421729
+Missouri,2,61-70,373330
+Missouri,2,71+,368176
+Missouri,2,Total,3115730
+Montana,0,10-Jan,139312
+Montana,0,20-Nov,129499
+Montana,0,21-30,140902
+Montana,0,31-40,132359
+Montana,0,41-50,116461
+Montana,0,51-60,140022
+Montana,0,61-70,142110
+Montana,0,71+,118079
+Montana,0,Total,1058744
+Montana,1,10-Jan,71439
+Montana,1,20-Nov,66928
+Montana,1,21-30,72941
+Montana,1,31-40,67697
+Montana,1,41-50,58923
+Montana,1,51-60,68867
+Montana,1,61-70,70009
+Montana,1,71+,55102
+Montana,1,Total,531906
+Montana,2,10-Jan,67873
+Montana,2,20-Nov,62571
+Montana,2,21-30,67961
+Montana,2,31-40,64662
+Montana,2,41-50,57538
+Montana,2,51-60,71155
+Montana,2,61-70,72101
+Montana,2,71+,62977
+Montana,2,Total,526838
+Nebraska,0,10-Jan,292351
+Nebraska,0,20-Nov,265535
+Nebraska,0,21-30,259323
+Nebraska,0,31-40,251808
+Nebraska,0,41-50,217416
+Nebraska,0,51-60,239496
+Nebraska,0,61-70,209733
+Nebraska,0,71+,186997
+Nebraska,0,Total,1922659
+Nebraska,1,10-Jan,149911
+Nebraska,1,20-Nov,135562
+Nebraska,1,21-30,132896
+Nebraska,1,31-40,128183
+Nebraska,1,41-50,109909
+Nebraska,1,51-60,119319
+Nebraska,1,61-70,101886
+Nebraska,1,71+,80331
+Nebraska,1,Total,957997
+Nebraska,2,10-Jan,142440
+Nebraska,2,20-Nov,129973
+Nebraska,2,21-30,126427
+Nebraska,2,31-40,123625
+Nebraska,2,41-50,107507
+Nebraska,2,51-60,120177
+Nebraska,2,61-70,107847
+Nebraska,2,71+,106666
+Nebraska,2,Total,964662
+Nevada,0,10-Jan,417922
+Nevada,0,20-Nov,369692
+Nevada,0,21-30,415854
+Nevada,0,31-40,419912
+Nevada,0,41-50,392163
+Nevada,0,51-60,386918
+Nevada,0,61-70,336245
+Nevada,0,71+,284858
+Nevada,0,Total,3023564
+Nevada,1,10-Jan,213760
+Nevada,1,20-Nov,189546
+Nevada,1,21-30,210328
+Nevada,1,31-40,212301
+Nevada,1,41-50,197635
+Nevada,1,51-60,194535
+Nevada,1,61-70,161380
+Nevada,1,71+,133262
+Nevada,1,Total,1512747
+Nevada,2,10-Jan,204162
+Nevada,2,20-Nov,180146
+Nevada,2,21-30,205526
+Nevada,2,31-40,207611
+Nevada,2,41-50,194528
+Nevada,2,51-60,192383
+Nevada,2,61-70,174865
+Nevada,2,71+,151596
+Nevada,2,Total,1510817
+New Hampshire,0,10-Jan,147950
+New Hampshire,0,20-Nov,165563
+New Hampshire,0,21-30,172828
+New Hampshire,0,31-40,160965
+New Hampshire,0,41-50,167961
+New Hampshire,0,51-60,214282
+New Hampshire,0,61-70,178392
+New Hampshire,0,71+,147210
+New Hampshire,0,Total,1355151
+New Hampshire,1,10-Jan,75977
+New Hampshire,1,20-Nov,84066
+New Hampshire,1,21-30,89588
+New Hampshire,1,31-40,81198
+New Hampshire,1,41-50,83144
+New Hampshire,1,51-60,105417
+New Hampshire,1,61-70,87116
+New Hampshire,1,71+,64613
+New Hampshire,1,Total,671119
+New Hampshire,2,10-Jan,71973
+New Hampshire,2,20-Nov,81497
+New Hampshire,2,21-30,83240
+New Hampshire,2,31-40,79767
+New Hampshire,2,41-50,84817
+New Hampshire,2,51-60,108865
+New Hampshire,2,61-70,91276
+New Hampshire,2,71+,82597
+New Hampshire,2,Total,684032
+New Jersey,0,10-Jan,1162270
+New Jersey,0,20-Nov,1110643
+New Jersey,0,21-30,1138368
+New Jersey,0,31-40,1149968
+New Jersey,0,41-50,1168288
+New Jersey,0,51-60,1281802
+New Jersey,0,61-70,984090
+New Jersey,0,71+,903723
+New Jersey,0,Total,8899152
+New Jersey,1,10-Jan,593308
+New Jersey,1,20-Nov,567430
+New Jersey,1,21-30,579179
+New Jersey,1,31-40,573705
+New Jersey,1,41-50,574186
+New Jersey,1,51-60,622258
+New Jersey,1,61-70,462939
+New Jersey,1,71+,371326
+New Jersey,1,Total,4344331
+New Jersey,2,10-Jan,568962
+New Jersey,2,20-Nov,543213
+New Jersey,2,21-30,559189
+New Jersey,2,31-40,576263
+New Jersey,2,41-50,594102
+New Jersey,2,51-60,659544
+New Jersey,2,61-70,521151
+New Jersey,2,71+,532397
+New Jersey,2,Total,4554821
+New Mexico,0,10-Jan,287323
+New Mexico,0,20-Nov,277721
+New Mexico,0,21-30,280571
+New Mexico,0,31-40,264810
+New Mexico,0,41-50,234454
+New Mexico,0,51-60,265269
+New Mexico,0,61-70,251886
+New Mexico,0,71+,221740
+New Mexico,0,Total,2083774
+New Mexico,1,10-Jan,146726
+New Mexico,1,20-Nov,141578
+New Mexico,1,21-30,143988
+New Mexico,1,31-40,133616
+New Mexico,1,41-50,115750
+New Mexico,1,51-60,128207
+New Mexico,1,61-70,118575
+New Mexico,1,71+,99046
+New Mexico,1,Total,1027486
+New Mexico,2,10-Jan,140597
+New Mexico,2,20-Nov,136143
+New Mexico,2,21-30,136583
+New Mexico,2,31-40,131194
+New Mexico,2,41-50,118704
+New Mexico,2,51-60,137062
+New Mexico,2,61-70,133311
+New Mexico,2,71+,122694
+New Mexico,2,Total,1056288
+New York,0,10-Jan,2481863
+New York,0,20-Nov,2332544
+New York,0,21-30,2814145
+New York,0,31-40,2605234
+New York,0,41-50,2411145
+New York,0,51-60,2684672
+New York,0,61-70,2177230
+New York,0,71+,2010431
+New York,0,Total,19517264
+New York,1,10-Jan,1269454
+New York,1,20-Nov,1185922
+New York,1,21-30,1403304
+New York,1,31-40,1291884
+New York,1,41-50,1176355
+New York,1,51-60,1294880
+New York,1,61-70,1021193
+New York,1,71+,823717
+New York,1,Total,9466709
+New York,2,10-Jan,1212409
+New York,2,20-Nov,1146622
+New York,2,21-30,1410841
+New York,2,31-40,1313350
+New York,2,41-50,1234790
+New York,2,51-60,1389792
+New York,2,61-70,1156037
+New York,2,71+,1186714
+New York,2,Total,10050555
+North Carolina,0,10-Jan,1371344
+North Carolina,0,20-Nov,1341361
+North Carolina,0,21-30,1368664
+North Carolina,0,31-40,1292876
+North Carolina,0,41-50,1332518
+North Carolina,0,51-60,1377848
+North Carolina,0,61-70,1178118
+North Carolina,0,71+,1023408
+North Carolina,0,Total,10286137
+North Carolina,1,10-Jan,699533
+North Carolina,1,20-Nov,678716
+North Carolina,1,21-30,674552
+North Carolina,1,31-40,623798
+North Carolina,1,41-50,647617
+North Carolina,1,51-60,662501
+North Carolina,1,61-70,545952
+North Carolina,1,71+,432276
+North Carolina,1,Total,4964945
+North Carolina,2,10-Jan,671811
+North Carolina,2,20-Nov,662645
+North Carolina,2,21-30,694112
+North Carolina,2,31-40,669078
+North Carolina,2,41-50,684901
+North Carolina,2,51-60,715347
+North Carolina,2,61-70,632166
+North Carolina,2,71+,591132
+North Carolina,2,Total,5321192
+North Dakota,0,10-Jan,114724
+North Dakota,0,20-Nov,96620
+North Dakota,0,21-30,119081
+North Dakota,0,31-40,99751
+North Dakota,0,41-50,78198
+North Dakota,0,51-60,91243
+North Dakota,0,61-70,80239
+North Dakota,0,71+,73046
+North Dakota,0,Total,752902
+North Dakota,1,10-Jan,58597
+North Dakota,1,20-Nov,49817
+North Dakota,1,21-30,62846
+North Dakota,1,31-40,53027
+North Dakota,1,41-50,40702
+North Dakota,1,51-60,46260
+North Dakota,1,61-70,40609
+North Dakota,1,71+,31502
+North Dakota,1,Total,383360
+North Dakota,2,10-Jan,56127
+North Dakota,2,20-Nov,46803
+North Dakota,2,21-30,56235
+North Dakota,2,31-40,46724
+North Dakota,2,41-50,37496
+North Dakota,2,51-60,44983
+North Dakota,2,61-70,39630
+North Dakota,2,71+,41544
+North Dakota,2,Total,369542
+Ohio,0,10-Jan,1549159
+Ohio,0,20-Nov,1505042
+Ohio,0,21-30,1562070
+Ohio,0,31-40,1443893
+Ohio,0,41-50,1404828
+Ohio,0,51-60,1597638
+Ohio,0,61-70,1397602
+Ohio,0,71+,1220448
+Ohio,0,Total,11680680
+Ohio,1,10-Jan,792589
+Ohio,1,20-Nov,769284
+Ohio,1,21-30,790179
+Ohio,1,31-40,719860
+Ohio,1,41-50,695391
+Ohio,1,51-60,780009
+Ohio,1,61-70,664926
+Ohio,1,71+,511608
+Ohio,1,Total,5723846
+Ohio,2,10-Jan,756570
+Ohio,2,20-Nov,735758
+Ohio,2,21-30,771891
+Ohio,2,31-40,724033
+Ohio,2,41-50,709437
+Ohio,2,51-60,817629
+Ohio,2,61-70,732676
+Ohio,2,71+,708840
+Ohio,2,Total,5956834
+Oklahoma,0,10-Jan,582910
+Oklahoma,0,20-Nov,530476
+Oklahoma,0,21-30,542414
+Oklahoma,0,31-40,513826
+Oklahoma,0,41-50,456439
+Oklahoma,0,51-60,488823
+Oklahoma,0,61-70,424829
+Oklahoma,0,71+,383612
+Oklahoma,0,Total,3923329
+Oklahoma,1,10-Jan,298142
+Oklahoma,1,20-Nov,271360
+Oklahoma,1,21-30,275268
+Oklahoma,1,31-40,257543
+Oklahoma,1,41-50,227854
+Oklahoma,1,51-60,239313
+Oklahoma,1,61-70,201556
+Oklahoma,1,71+,165453
+Oklahoma,1,Total,1936489
+Oklahoma,2,10-Jan,284768
+Oklahoma,2,20-Nov,259116
+Oklahoma,2,21-30,267146
+Oklahoma,2,31-40,256283
+Oklahoma,2,41-50,228585
+Oklahoma,2,51-60,249510
+Oklahoma,2,61-70,223273
+Oklahoma,2,71+,218159
+Oklahoma,2,Total,1986840
+Oregon,0,10-Jan,527499
+Oregon,0,20-Nov,495212
+Oregon,0,21-30,576180
+Oregon,0,31-40,583770
+Oregon,0,41-50,523019
+Oregon,0,51-60,524013
+Oregon,0,61-70,519168
+Oregon,0,71+,439306
+Oregon,0,Total,4188167
+Oregon,1,10-Jan,270119
+Oregon,1,20-Nov,253808
+Oregon,1,21-30,293436
+Oregon,1,31-40,294253
+Oregon,1,41-50,264133
+Oregon,1,51-60,256361
+Oregon,1,61-70,247293
+Oregon,1,71+,195914
+Oregon,1,Total,2075317
+Oregon,2,10-Jan,257380
+Oregon,2,20-Nov,241404
+Oregon,2,21-30,282744
+Oregon,2,31-40,289517
+Oregon,2,41-50,258886
+Oregon,2,51-60,267652
+Oregon,2,61-70,271875
+Oregon,2,71+,243392
+Oregon,2,Total,2112850
+Pennsylvania,0,10-Jan,1578780
+Pennsylvania,0,20-Nov,1582495
+Pennsylvania,0,21-30,1688674
+Pennsylvania,0,31-40,1585352
+Pennsylvania,0,41-50,1526912
+Pennsylvania,0,51-60,1801886
+Pennsylvania,0,61-70,1574688
+Pennsylvania,0,71+,1461934
+Pennsylvania,0,Total,12800721
+Pennsylvania,1,10-Jan,807668
+Pennsylvania,1,20-Nov,806697
+Pennsylvania,1,21-30,860748
+Pennsylvania,1,31-40,796714
+Pennsylvania,1,41-50,757117
+Pennsylvania,1,51-60,879727
+Pennsylvania,1,61-70,751869
+Pennsylvania,1,71+,608767
+Pennsylvania,1,Total,6269307
+Pennsylvania,2,10-Jan,771112
+Pennsylvania,2,20-Nov,775798
+Pennsylvania,2,21-30,827926
+Pennsylvania,2,31-40,788638
+Pennsylvania,2,41-50,769795
+Pennsylvania,2,51-60,922159
+Pennsylvania,2,61-70,822819
+Pennsylvania,2,71+,853167
+Pennsylvania,2,Total,6531414
+Rhode Island,0,10-Jan,120706
+Rhode Island,0,20-Nov,135372
+Rhode Island,0,21-30,149289
+Rhode Island,0,31-40,130715
+Rhode Island,0,41-50,126058
+Rhode Island,0,51-60,151457
+Rhode Island,0,61-70,125213
+Rhode Island,0,71+,114071
+Rhode Island,0,Total,1052881
+Rhode Island,1,10-Jan,61837
+Rhode Island,1,20-Nov,67748
+Rhode Island,1,21-30,75724
+Rhode Island,1,31-40,65123
+Rhode Island,1,41-50,61274
+Rhode Island,1,51-60,72723
+Rhode Island,1,61-70,59377
+Rhode Island,1,71+,46794
+Rhode Island,1,Total,510600
+Rhode Island,2,10-Jan,58869
+Rhode Island,2,20-Nov,67624
+Rhode Island,2,21-30,73565
+Rhode Island,2,31-40,65592
+Rhode Island,2,41-50,64784
+Rhode Island,2,51-60,78734
+Rhode Island,2,61-70,65836
+Rhode Island,2,71+,67277
+Rhode Island,2,Total,542281
+South Carolina,0,10-Jan,663289
+South Carolina,0,20-Nov,634016
+South Carolina,0,21-30,666970
+South Carolina,0,31-40,621494
+South Carolina,0,41-50,615168
+South Carolina,0,51-60,676136
+South Carolina,0,61-70,626326
+South Carolina,0,71+,539570
+South Carolina,0,Total,5042969
+South Carolina,1,10-Jan,337090
+South Carolina,1,20-Nov,320720
+South Carolina,1,21-30,328973
+South Carolina,1,31-40,301113
+South Carolina,1,41-50,297384
+South Carolina,1,51-60,321276
+South Carolina,1,61-70,288711
+South Carolina,1,71+,234400
+South Carolina,1,Total,2429667
+South Carolina,2,10-Jan,326199
+South Carolina,2,20-Nov,313296
+South Carolina,2,21-30,337997
+South Carolina,2,31-40,320381
+South Carolina,2,41-50,317784
+South Carolina,2,51-60,354860
+South Carolina,2,61-70,337615
+South Carolina,2,71+,305170
+South Carolina,2,Total,2613302
+South Dakota,0,10-Jan,135302
+South Dakota,0,20-Nov,117889
+South Dakota,0,21-30,115926
+South Dakota,0,31-40,110944
+South Dakota,0,41-50,94064
+South Dakota,0,51-60,111725
+South Dakota,0,61-70,104715
+South Dakota,0,71+,88212
+South Dakota,0,Total,878777
+South Dakota,1,10-Jan,69401
+South Dakota,1,20-Nov,60679
+South Dakota,1,21-30,60127
+South Dakota,1,31-40,57460
+South Dakota,1,41-50,48172
+South Dakota,1,51-60,55760
+South Dakota,1,61-70,52390
+South Dakota,1,71+,38641
+South Dakota,1,Total,442630
+South Dakota,2,10-Jan,65901
+South Dakota,2,20-Nov,57210
+South Dakota,2,21-30,55799
+South Dakota,2,31-40,53484
+South Dakota,2,41-50,45892
+South Dakota,2,51-60,55965
+South Dakota,2,61-70,52325
+South Dakota,2,71+,49571
+South Dakota,2,Total,436147
+Tennessee,0,10-Jan,905909
+Tennessee,0,20-Nov,850844
+Tennessee,0,21-30,933617
+Tennessee,0,31-40,857943
+Tennessee,0,41-50,849386
+Tennessee,0,51-60,901174
+Tennessee,0,61-70,777252
+Tennessee,0,71+,673217
+Tennessee,0,Total,6749342
+Tennessee,1,10-Jan,462176
+Tennessee,1,20-Nov,433654
+Tennessee,1,21-30,464282
+Tennessee,1,31-40,421610
+Tennessee,1,41-50,416941
+Tennessee,1,51-60,434787
+Tennessee,1,61-70,364259
+Tennessee,1,71+,287314
+Tennessee,1,Total,3285023
+Tennessee,2,10-Jan,443733
+Tennessee,2,20-Nov,417190
+Tennessee,2,21-30,469335
+Tennessee,2,31-40,436333
+Tennessee,2,41-50,432445
+Tennessee,2,51-60,466387
+Tennessee,2,61-70,412993
+Tennessee,2,71+,385903
+Tennessee,2,Total,3464319
+Texas,0,10-Jan,4493744
+Texas,0,20-Nov,4071946
+Texas,0,21-30,4130677
+Texas,0,31-40,4038337
+Texas,0,41-50,3652137
+Texas,0,51-60,3400088
+Texas,0,61-70,2645436
+Texas,0,71+,2155133
+Texas,0,Total,28587498
+Texas,1,10-Jan,2292688
+Texas,1,20-Nov,2076899
+Texas,1,21-30,2101431
+Texas,1,31-40,2029564
+Texas,1,41-50,1813083
+Texas,1,51-60,1671905
+Texas,1,61-70,1252805
+Texas,1,71+,930128
+Texas,1,Total,14168503
+Texas,2,10-Jan,2201056
+Texas,2,20-Nov,1995047
+Texas,2,21-30,2029246
+Texas,2,31-40,2008773
+Texas,2,41-50,1839054
+Texas,2,51-60,1728183
+Texas,2,61-70,1392631
+Texas,2,71+,1225005
+Texas,2,Total,14418995
+Utah,0,10-Jan,566052
+Utah,0,20-Nov,508109
+Utah,0,21-30,503450
+Utah,0,31-40,447854
+Utah,0,41-50,361138
+Utah,0,51-60,304489
+Utah,0,61-70,255663
+Utah,0,71+,209515
+Utah,0,Total,3156270
+Utah,1,10-Jan,290233
+Utah,1,20-Nov,257973
+Utah,1,21-30,260178
+Utah,1,31-40,226150
+Utah,1,41-50,183372
+Utah,1,51-60,150979
+Utah,1,61-70,124133
+Utah,1,71+,95029
+Utah,1,Total,1588047
+Utah,2,10-Jan,275819
+Utah,2,20-Nov,250136
+Utah,2,21-30,243272
+Utah,2,31-40,221704
+Utah,2,41-50,177766
+Utah,2,51-60,153510
+Utah,2,61-70,131530
+Utah,2,71+,114486
+Utah,2,Total,1568223
+Vermont,0,10-Jan,67591
+Vermont,0,20-Nov,80247
+Vermont,0,21-30,80066
+Vermont,0,31-40,72590
+Vermont,0,41-50,73188
+Vermont,0,51-60,92926
+Vermont,0,61-70,86706
+Vermont,0,71+,72413
+Vermont,0,Total,625727
+Vermont,1,10-Jan,34876
+Vermont,1,20-Nov,41134
+Vermont,1,21-30,41230
+Vermont,1,31-40,36003
+Vermont,1,41-50,36107
+Vermont,1,51-60,45267
+Vermont,1,61-70,42173
+Vermont,1,71+,31974
+Vermont,1,Total,308764
+Vermont,2,10-Jan,32715
+Vermont,2,20-Nov,39113
+Vermont,2,21-30,38836
+Vermont,2,31-40,36587
+Vermont,2,41-50,37081
+Vermont,2,51-60,47659
+Vermont,2,61-70,44533
+Vermont,2,71+,40439
+Vermont,2,Total,316963
+Virginia,0,10-Jan,1131373
+Virginia,0,20-Nov,1068890
+Virginia,0,21-30,1134573
+Virginia,0,31-40,1118245
+Virginia,0,41-50,1070140
+Virginia,0,51-60,1150551
+Virginia,0,61-70,926839
+Virginia,0,71+,801049
+Virginia,0,Total,8401660
+Virginia,1,10-Jan,579090
+Virginia,1,20-Nov,542717
+Virginia,1,21-30,569134
+Virginia,1,31-40,548415
+Virginia,1,41-50,522820
+Virginia,1,51-60,558474
+Virginia,1,61-70,436364
+Virginia,1,71+,342676
+Virginia,1,Total,4099690
+Virginia,2,10-Jan,552283
+Virginia,2,20-Nov,526173
+Virginia,2,21-30,565439
+Virginia,2,31-40,569830
+Virginia,2,41-50,547320
+Virginia,2,51-60,592077
+Virginia,2,61-70,490475
+Virginia,2,71+,458373
+Virginia,2,Total,4301970
+Washington,0,10-Jan,1024525
+Washington,0,20-Nov,899694
+Washington,0,21-30,1066699
+Washington,0,31-40,1068667
+Washington,0,41-50,930909
+Washington,0,51-60,956149
+Washington,0,61-70,846842
+Washington,0,71+,689902
+Washington,0,Total,7483387
+Washington,1,10-Jan,524646
+Washington,1,20-Nov,460468
+Washington,1,21-30,546450
+Washington,1,31-40,541329
+Washington,1,41-50,468831
+Washington,1,51-60,473005
+Washington,1,61-70,405822
+Washington,1,71+,305636
+Washington,1,Total,3726187
+Washington,2,10-Jan,499879
+Washington,2,20-Nov,439226
+Washington,2,21-30,520249
+Washington,2,31-40,527338
+Washington,2,41-50,462078
+Washington,2,51-60,483144
+Washington,2,61-70,441020
+Washington,2,71+,384266
+Washington,2,Total,3757200
+West Virginia,0,10-Jan,217268
+West Virginia,0,20-Nov,212772
+West Virginia,0,21-30,224864
+West Virginia,0,31-40,211750
+West Virginia,0,41-50,224460
+West Virginia,0,51-60,250117
+West Virginia,0,61-70,245910
+West Virginia,0,71+,217720
+West Virginia,0,Total,1804861
+West Virginia,1,10-Jan,111238
+West Virginia,1,20-Nov,109831
+West Virginia,1,21-30,115653
+West Virginia,1,31-40,107162
+West Virginia,1,41-50,112687
+West Virginia,1,51-60,122934
+West Virginia,1,61-70,118612
+West Virginia,1,71+,95356
+West Virginia,1,Total,893473
+West Virginia,2,10-Jan,106030
+West Virginia,2,20-Nov,102941
+West Virginia,2,21-30,109211
+West Virginia,2,31-40,104588
+West Virginia,2,41-50,111773
+West Virginia,2,51-60,127183
+West Virginia,2,61-70,127298
+West Virginia,2,71+,122364
+West Virginia,2,Total,911388
+Wisconsin,0,10-Jan,757606
+Wisconsin,0,20-Nov,753482
+Wisconsin,0,21-30,760194
+Wisconsin,0,31-40,732282
+Wisconsin,0,41-50,687421
+Wisconsin,0,51-60,822232
+Wisconsin,0,61-70,698965
+Wisconsin,0,71+,598318
+Wisconsin,0,Total,5810500
+Wisconsin,1,10-Jan,387526
+Wisconsin,1,20-Nov,384300
+Wisconsin,1,21-30,389883
+Wisconsin,1,31-40,370643
+Wisconsin,1,41-50,346447
+Wisconsin,1,51-60,407744
+Wisconsin,1,61-70,342927
+Wisconsin,1,71+,260255
+Wisconsin,1,Total,2889725
+Wisconsin,2,10-Jan,370080
+Wisconsin,2,20-Nov,369182
+Wisconsin,2,21-30,370311
+Wisconsin,2,31-40,361639
+Wisconsin,2,41-50,340974
+Wisconsin,2,51-60,414488
+Wisconsin,2,61-70,356038
+Wisconsin,2,71+,338063
+Wisconsin,2,Total,2920775
+Wyoming,0,10-Jan,81801
+Wyoming,0,20-Nov,74584
+Wyoming,0,21-30,75089
+Wyoming,0,31-40,76983
+Wyoming,0,41-50,64934
+Wyoming,0,51-60,73656
+Wyoming,0,61-70,71864
+Wyoming,0,71+,55835
+Wyoming,0,Total,574746
+Wyoming,1,10-Jan,42102
+Wyoming,1,20-Nov,38663
+Wyoming,1,21-30,38876
+Wyoming,1,31-40,39738
+Wyoming,1,41-50,33524
+Wyoming,1,51-60,37125
+Wyoming,1,61-70,36254
+Wyoming,1,71+,25775
+Wyoming,1,Total,292057
+Wyoming,2,10-Jan,39699
+Wyoming,2,20-Nov,35921
+Wyoming,2,21-30,36213
+Wyoming,2,31-40,37245
+Wyoming,2,41-50,31410
+Wyoming,2,51-60,36531
+Wyoming,2,61-70,35610
+Wyoming,2,71+,30060
+Wyoming,2,Total,282689
